@@ -1,0 +1,19 @@
+{
+  "name": "discordselfbot",
+  "version": "1.0.0",
+  "description": "DiscordSelfBot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Snkh <iamsnkh@pm.me> (https://snkh.me)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "buffer-equal-constant-time": "^1.0.1",
+    "crypto": "^1.0.1",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  }
+}
