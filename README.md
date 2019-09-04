@@ -43,3 +43,8 @@ Click Add Webhook
 * **Change Status** - Change DiscordStatus (playing, listening or watching)
 
 PS: new functions are coming soon. 
+
+License
+=======
+
+[MIT](LICENSE)

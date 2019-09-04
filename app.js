@@ -5,9 +5,9 @@
 /*   Author: Snkh <inquiries@snkh.me>                                   */
 /*                                                                      */
 /*   Created: 03/09/2019 22:41:17 by Snkh                               */
-/*   Updated: 04/09/2019 03:15:54 by Snkh                               */
+/*   Updated: 04/09/2019 03:20:12 by Snkh                               */
 /*                                                                      */
-/*   Snkh Inc. (c) 2019 - GPL 3.0                                       */
+/*   Synezia Corp. (c) 2019 - MIT                                       */
 /*                                                                      */
 /* ******************************************************************** */
 
